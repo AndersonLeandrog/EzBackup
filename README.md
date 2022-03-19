@@ -1,5 +1,7 @@
 ## !EzBackup
-### EzBackup é um software simples que realiza e restaura os backups de todos os seus arquivos no windows, ideal para a realização da troca ou reinstalação do seu sistema operacional, possui suporte somente a windows nas versões 32 e 64 bits.
+### EzBackup é um software que realiza e restaura os backups de todos os seus arquivos no windows, ideal para a realização da troca ou reinstalação do seu sistema operacional, possui suporte somente a windows nas versões 32 e 64 bits.
+
+![alt text](https://i.ibb.co/p15wn7W/Ez-Read-Me-1.png)
 
 #### Downloads
 [![Git releases](https://img.shields.io/badge/!EzBackup-Windows-informational)](https://github.com/AndersonLeandrog/EzBackup/releases)
